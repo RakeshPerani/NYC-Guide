@@ -67,7 +67,7 @@ python manage.py runserver (and follow/click on the link: http://127.0.0.1:8000/
 ***
 ## <div align="center">Bonus Features</div>
 #### Bootstrap Cards:
-The Bootstrap toolkit, a free and open-source CSS framework, was utilized for front-end development of cards to display a picture of each activity and venue.
+The Bootstrap toolkit, a free and open-source CSS framework, was utilized for front-end development with colors, sizes, fonts and card layout styles that displayed pictures of each activity and venue.
 
 ***
 ## <div align="center">Contributing</div>
