@@ -54,12 +54,14 @@ Windows Powershell users:
 ```
 source <name-of-your-directory>/Scripts/activate
 ```
-
+- Install Dependencies from requirements.txt
+```
+pip install -r requirements.txt
+```
 - Install Django:
 ```
 pip install django
 ```
-
 - Start your virtual environment and run the New York City Guide from the directory with manage.py in it:
 ```
 python manage.py runserver (and follow/click on the link: http://127.0.0.1:8000/)
@@ -68,7 +70,6 @@ python manage.py runserver (and follow/click on the link: http://127.0.0.1:8000/
 ## <div align="center">Bonus Features</div>
 #### Bootstrap Cards:
 The Bootstrap toolkit, a free and open-source CSS framework, was utilized for front-end development with colors, sizes, fonts and card layout styles that displayed pictures of each activity and venue.
-
 ***
 ## <div align="center">Contributing</div>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
