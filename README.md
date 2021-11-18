@@ -12,7 +12,7 @@ New York City Guide is a travel website built within Django, a Python web framew
     - Django
 - Usage
     - Create and Run Virtual Environment
-    - Install Django and Create 'requirements.txt' file
+    - Install dependencies from 'requirements.txt' file  and Django
     - Run the New York City Guide website in the virtual environment
 - Bonus Features
     - Implementation of cards to link activty and venue
@@ -54,7 +54,7 @@ Windows Powershell users:
 ```
 source <name-of-your-directory>/Scripts/activate
 ```
-- Install Dependencies from requirements.txt
+- Install dependencies from requirements.txt
 ```
 pip install -r requirements.txt
 ```
